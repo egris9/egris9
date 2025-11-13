@@ -68,6 +68,10 @@
 ## 📊 GitHub Stats:
 <div>
   <p align="">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=egris9&theme=shadow_blue&hide_border=false" />
+  </p>
+  <br>
+  <p align="">
     <img src="https://github-readme-stats.vercel.app/api?username=egris9&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" />
   </p>
   <br>
@@ -75,13 +79,10 @@
   <p align="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egris9&theme=shadow_blue&hide_border=false&layout=compact" />
   </p>
-  
-  <p align="">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=egris9&theme=shadow_blue&hide_border=false" />
-  </p>
-  
 <div>
-  <br>
+
+  
+<br>
   
 ## 🌐 Connect with Me:
 
