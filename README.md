@@ -1,5 +1,7 @@
 Hello! I'm Amjad, a full stack developer passionate about Intelligent Systems 🤖
 
+---
+
 # 💫 About Me:
 🎓 **Ingénieur d’État en Informatique et Réseaux** – EMSI, Morocco  
 💡 Passionate about **Full-Stack Development**, **AI**, and **Software Architecture**  
@@ -71,10 +73,7 @@ Hello! I'm Amjad, a full stack developer passionate about Intelligent Systems �
 
 ---
 
-## 🏆 GitHub Achievements:
-![](https://github-profile-trophy.vercel.app/?username=egris9&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
----
 
 [![](https://visitcount.itsvg.in/api?id=egris9&icon=0&color=1)](https://visitcount.itsvg.in)  
 
