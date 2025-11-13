@@ -1,7 +1,7 @@
 
 
 ### Hello! I'm Amjad, a full stack developer passionate about Intelligent Systems 🤖
-
+---
 
 
 🎓 **Ingénieur d’État en Informatique et Réseaux** – EMSI, Morocco  
