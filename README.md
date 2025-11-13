@@ -10,7 +10,7 @@
 🌐 Skilled in **scalable web platforms**, **automation pipelines**, and **data-driven applications**  
 🧩 Focused on **AI integration**, **NLP projects**, and **real-world software solutions**
 
-
+<br>
 
 ## 💻 Tech Stack:
 ### 🧠 Languages
