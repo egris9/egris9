@@ -3,7 +3,6 @@
 <h2 align="center">
   Hey there! I'm Amjad — a Full Stack Developer driven by building smart, scalable solutions.
 </h2>
----
 
 
 🎓 **Ingénieur d’État en Informatique et Réseaux** – EMSI, Morocco  
@@ -12,6 +11,7 @@
 🌐 Skilled in **scalable web platforms**, **automation pipelines**, and **data-driven applications**  
 🧩 Focused on **AI integration**, **NLP projects**, and **real-world software solutions**
 
+<br>
 <br>
 
 ## 💻 Tech Stack:
@@ -61,6 +61,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
 
+<br>
+<br>
 
 
 
@@ -80,19 +82,24 @@
 </p>
 
 
+<br>
+<br>
 
 
 
 ## 📊 GitHub Stats:
+<div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=egris9&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
+<br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=egris9&theme=shadow_blue&hide_border=false" />
 </p>
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egris9&theme=shadow_blue&hide_border=false&layout=compact" />
 </p>
-[![](https://visitcount.itsvg.in/api?id=egris9&icon=0&color=1)](https://visitcount.itsvg.in)  
+<div>
