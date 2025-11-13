@@ -1,9 +1,8 @@
 
 
 <h2 align="center">
-  Hey there! I'm Amjad — a Full Stack Developer with a passion for Intelligent Systems.
+  Hey there! I'm Amjad — a Full Stack Developer driven by building smart, scalable solutions.
 </h2>
-
 ---
 
 
@@ -85,11 +84,15 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=egris9&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=egris9&theme=shadow_blue&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=egris9&theme=shadow_blue&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=egris9&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egris9&theme=shadow_blue&hide_border=false" />
+</p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egris9&theme=shadow_blue&hide_border=false&layout=compact" />
+</p>
 [![](https://visitcount.itsvg.in/api?id=egris9&icon=0&color=1)](https://visitcount.itsvg.in)  
-
