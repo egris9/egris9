@@ -2,7 +2,7 @@
 
 ## Hello! I'm Amjad, a full stack developer passionate about Intelligent Systems 🤖
 
----
+
 
 🎓 **Ingénieur d’État en Informatique et Réseaux** – EMSI, Morocco  
 💡 Passionate about **Full-Stack Development**, **AI**, and **Software Architecture**  
@@ -62,6 +62,7 @@
 ---
 
 ## 🌐 Connect with Me:
+
 <p align="center">
   <a href="https://linkedin.com/in/AmjadNaciri">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
