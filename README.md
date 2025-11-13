@@ -2,21 +2,11 @@ Hello! I'm Amjad, a full stack developer passionate about Intelligent Systems �
 
 ---
 
-# 💫 About Me:
 🎓 **Ingénieur d’État en Informatique et Réseaux** – EMSI, Morocco  
 💡 Passionate about **Full-Stack Development**, **AI**, and **Software Architecture**  
 ⚙️ Experienced with **Fastify**, **React**, **Drizzle ORM**, **Spring Boot**, **Node.js**, and **Python ML frameworks**  
 🌐 Skilled in **scalable web platforms**, **automation pipelines**, and **data-driven applications**  
 🧩 Focused on **AI integration**, **NLP projects**, and **real-world software solutions**
-
----
-
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AmjadNaciri)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amjadnaciri73@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/egris9)
-
----
 
 # 💻 Tech Stack:
 ### 🧠 Languages
@@ -66,6 +56,12 @@ Hello! I'm Amjad, a full stack developer passionate about Intelligent Systems �
 
 ---
 
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AmjadNaciri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amjadnaciri73@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/egris9)
+
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=egris9&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=egris9&theme=shadow_blue&hide_border=false)  
