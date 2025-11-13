@@ -1,6 +1,6 @@
 
 
-<h2 align="center">
+<h2 align="center" >
   Hey there! I'm Amjad — a Full Stack Developer driven by building smart, scalable solutions.
 </h2>
 
@@ -11,7 +11,6 @@
 🌐 Skilled in **scalable web platforms**, **automation pipelines**, and **data-driven applications**  
 🧩 Focused on **AI integration**, **NLP projects**, and **real-world software solutions**
 
-<br>
 <br>
 
 ## 💻 Tech Stack:
