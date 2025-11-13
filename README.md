@@ -1,4 +1,6 @@
-Hello! I'm Amjad, a full stack developer passionate about Intelligent Systems 🤖
+
+
+# Hello! I'm Amjad, a full stack developer passionate about Intelligent Systems 🤖
 
 ---
 
@@ -7,6 +9,8 @@ Hello! I'm Amjad, a full stack developer passionate about Intelligent Systems �
 ⚙️ Experienced with **Fastify**, **React**, **Drizzle ORM**, **Spring Boot**, **Node.js**, and **Python ML frameworks**  
 🌐 Skilled in **scalable web platforms**, **automation pipelines**, and **data-driven applications**  
 🧩 Focused on **AI integration**, **NLP projects**, and **real-world software solutions**
+
+
 
 # 💻 Tech Stack:
 ### 🧠 Languages
@@ -54,6 +58,7 @@ Hello! I'm Amjad, a full stack developer passionate about Intelligent Systems �
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
+
 ---
 
 ## 🌐 Connect with Me:
@@ -61,13 +66,12 @@ Hello! I'm Amjad, a full stack developer passionate about Intelligent Systems �
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amjadnaciri73@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/egris9)
 
+
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=egris9&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=egris9&theme=shadow_blue&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=egris9&theme=shadow_blue&hide_border=false&layout=compact)
-
----
 
 
 
