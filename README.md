@@ -65,8 +65,6 @@
 <br>
 
 
-
-
 ## 🌐 Connect with Me:
 
 <p align="center">
@@ -86,20 +84,34 @@
 <br>
 
 
-
 ## 📊 GitHub Stats:
 <div>
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api?username=egris9&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 <br>
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=egris9&theme=shadow_blue&hide_border=false" />
 </p>
 <br>
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egris9&theme=shadow_blue&hide_border=false&layout=compact" />
 </p>
 <div>
+
+  
+## 🌐 Connect with Me:
+
+<p align="center">
+  <a href="https://linkedin.com/in/AmjadNaciri">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:amjadnaciri73@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/egris9">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
