@@ -1,6 +1,9 @@
 
 
-### Hello! I'm Amjad, a full stack developer passionate about Intelligent Systems 🤖
+<h2 align="center">
+  Hey there! I'm Amjad — a Full Stack Developer with a passion for Intelligent Systems.
+</h2>
+
 ---
 
 
