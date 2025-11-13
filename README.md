@@ -3,7 +3,7 @@
 <h2 align="center" >
   Hey there! I'm Amjad — a Full Stack Developer driven by building smart, scalable solutions.
 </h2>
-
+<br>
 
 🎓 **Ingénieur d’État en Informatique et Réseaux** – EMSI, Morocco  
 💡 Passionate about **Full-Stack Development**, **AI**, and **Software Architecture**  
